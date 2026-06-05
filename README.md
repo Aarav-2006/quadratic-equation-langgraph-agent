@@ -352,7 +352,7 @@ This dynamically determines which node executes next.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/quadratic-equation-langgraph-agent.git
+git clone https://github.com/Aarav-2006/quadratic-equation-langgraph-agent.git
 ```
 
 Navigate into the project:
